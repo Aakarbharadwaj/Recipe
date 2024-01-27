@@ -3,7 +3,7 @@ import './Search.css'
 const Search = () => {
     return (
         <>
-            <div className='search'>
+            <div className='search' >
                 <input type="text" placeholder='Search here for recipe' />
                 <button>SEARCH</button>
             </div>
