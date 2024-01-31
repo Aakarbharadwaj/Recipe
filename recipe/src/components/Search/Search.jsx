@@ -1,10 +1,11 @@
 import React from 'react'
 import './Search.css'
-const Search = () => {
+const Search = ({ title }) => {
     return (
         <>
             <div className='search' >
-                <input type="text" placeholder='Search here for recipe' />
+
+                <input type="text" placeholder={title} />
                 <button>SEARCH</button>
             </div>
         </>

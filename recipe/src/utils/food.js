@@ -25,6 +25,17 @@ const food = [
         imageUrl: 'https://www.sharmispassions.com/wp-content/uploads/2022/12/RajmaMasala4.jpg',
         title: "Rajma",
     },
+    {
+        id: 6,
+        imageUrl: 'https://www.sharmispassions.com/wp-content/uploads/2022/12/RajmaMasala4.jpg',
+        title: "Masala Rajma",
+    },
+    {
+        id: 7,
+        imageUrl: 'https://www.cookwithmanali.com/wp-content/uploads/2020/05/Masala-Dosa.jpg',
+        title: "Masala Dosa",
+
+    },
 
 ]
 export default food;
