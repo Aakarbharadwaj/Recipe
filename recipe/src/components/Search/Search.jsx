@@ -4,7 +4,6 @@ const Search = ({ title }) => {
     return (
         <>
             <div className='search' >
-
                 <input type="text" placeholder={title} />
                 <button>SEARCH</button>
             </div>
